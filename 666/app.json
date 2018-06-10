@@ -1,0 +1,28 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/pages1/pages1"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": ",,,",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "小程序",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "hell",
+      "iconPath": "assets/board.png",
+      "selectedIconPath": "assets/board-actived.png"
+    },
+    {
+      "pagePath": "pages/index/index",
+      "text": "hell",
+      "iconPath": "assets/board.png",
+      "selectedIconPath": "assets/board-actived.png"
+    }]
+  }
+}

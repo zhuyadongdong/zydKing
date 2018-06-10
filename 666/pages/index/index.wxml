@@ -1,0 +1,37 @@
+<!--pages/index/index.wxml-->
+<navigator url="/pages/pages1/pages1">跳转{{foo}}</navigator>
+               
+<text >zhuyadong</text>
+<view>123</view>
+<view>123</view>
+
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
+<view>123</view>
